@@ -8,3 +8,5 @@ a = 45628
 b = 7839
 puts " Answer 3: The output of 45628 times 7839 is #{a+b}"
 
+
+puts " Answer 4: #{ (true && false) || (false && true) || !(false && false)}"
